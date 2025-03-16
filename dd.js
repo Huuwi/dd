@@ -1,6 +1,3 @@
-// create by @perkicau @mixc2 
-// selling method mixc2 starting only 10$ - 400$ 
-// TLS-BYPASS price 70$ you can sell the 
 
 
 const net = require("net");
